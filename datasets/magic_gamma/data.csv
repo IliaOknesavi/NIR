@@ -1,0 +1,5 @@
+method,path,New_cat_cols,model_path,schedul_path,JS divergence,Utility_XGBoost,Utility_logistic_r,matrix_distance
+one_hot_encoding,datasets/magic_gamma/magic_gamma_ohe.csv,['class:'],datasets/magic_gamma/models/ctgan_magic_gamma_one_hot_encoding_model.pkl,datasets/magic_gamma/training_schedules/ctgan_magic_gamma_one_hot_encoding_losses.png,,,,
+label_encoding,datasets/magic_gamma/magic_gamma_label.csv,['class:'],datasets/magic_gamma/models/ctgan_magic_gamma_label_encoding_model.pkl,datasets/magic_gamma/training_schedules/ctgan_magic_gamma_label_encoding_losses.png,,,,
+frequency_encoding,datasets/magic_gamma/magic_gamma_frequency.csv,['class:'],datasets/magic_gamma/models/ctgan_magic_gamma_frequency_encoding_model.pkl,datasets/magic_gamma/training_schedules/ctgan_magic_gamma_frequency_encoding_losses.png,,,,
+original,datasets/magic_gamma/magic_gamma_original.csv,['class:'],datasets/magic_gamma/models/ctgan_magic_gamma_original_model.pkl,datasets/magic_gamma/training_schedules/ctgan_magic_gamma_original_losses.png,,,,

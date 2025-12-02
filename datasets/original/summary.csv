@@ -1,0 +1,11 @@
+Dataset:,Rows:,Cols (Total):,Categorical:,Numerical:,% Cat:
+Magic Gamma,"19,020",11,0,11,0%
+California Housing,"20,640",8,0,8,0%
+Letter Recognition,"20,000",16,0,16,0%
+Default Credit,"30,000",24,10,14,42%
+Online Shoppers,"12,330",18,8,10,44%
+Adult,"48,842",14,8,6,57%
+Bank Marketing,"45,211",17,10,7,59%
+Nursery,"12,960",8,8,0,100%
+Phishing Websites,"11,055",30,30,0,100%
+Connect-4,"67,557",42,42,0,100%
