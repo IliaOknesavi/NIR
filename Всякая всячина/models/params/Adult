@@ -1,5 +1,0 @@
-Adult
-class
-./data/processed/Adult_processed.csv
-./models/ctgan_Adult_model.pkl
-./models/training_schedules/ctgan_Adult_losses.png

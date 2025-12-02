@@ -1,5 +1,0 @@
-Iris
-Species
-./data/processed/Iris_processed.csv
-./models/ctgan_Iris_model.pkl
-./models/training_schedules/ctgan_Iris_losses.png

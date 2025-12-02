@@ -1,5 +1,0 @@
-Mushroom_fill_nan_with_median
-habitat
-./data/processed/mushroom_processed3000.csv
-./models/ctgan_Mushroom_model3000.pkl
-./models/training_schedules/ctgan_Mushroom_losses3000.png
