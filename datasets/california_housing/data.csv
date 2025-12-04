@@ -1,0 +1,2 @@
+method,path,New_cat_cols,model_path,schedul_path,JS divergence,Utility_XGBoost,Utility_logistic_r,matrix_distance
+original,datasets/california_housing/california_housing_original.csv,[],datasets/california_housing/models/ctgan_california_housing_original_model.pkl,datasets/california_housing/training_schedules/ctgan_california_housing_original_losses.png,,,,
