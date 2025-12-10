@@ -1,5 +1,0 @@
-Mushroom
-habitat
-./data/processed/mushroom_processed.csv
-./models/ctgan_Mushroom_model.pkl
-./models/training_schedules/ctgan_Mushroom_losses.png

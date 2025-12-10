@@ -1,0 +1,16 @@
+{
+  "dataset": "adult",
+  "method": "one_hot_encoding",
+  "score": -Infinity,
+  "epochs": 300,
+  "n_trials": 120,
+  "params": {
+    "embedding_dim": 64,
+    "gen_dim": 256,
+    "disc_dim": 64,
+    "batch_size": 256,
+    "generator_lr": 0.00011095234063570576,
+    "discriminator_lr": 0.00033388348233150816,
+    "l2scale": 7.679266575761594e-06
+  }
+}
